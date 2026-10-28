@@ -1,0 +1,7 @@
+services:
+  maintenance-page:
+    build: .
+    container_name: maintenance-page
+    ports:
+      - "8089:8089"
+    restart: unless-stopped

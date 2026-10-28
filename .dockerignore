@@ -1,0 +1,6 @@
+.git
+.gitignore
+CNAME
+Dockerfile
+docker-compose.yml
+.dockerignore
